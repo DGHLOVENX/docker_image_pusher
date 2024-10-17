@@ -1,1 +1,1 @@
-crpi-ssf5iwd6xb62roie.cn-hangzhou.personal.cr.aliyuncs.com/dgh_open_metadata/db:1.5.6
+docker.getcollate.io/openmetadata/db:1.5.6
